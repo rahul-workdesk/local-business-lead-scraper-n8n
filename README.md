@@ -1,5 +1,3 @@
-# Local-business-lead-scraper-n8n
-Automated n8n workflow that finds local business leads and writes them to Google Sheets
 # Local Business Lead Scraper
 
 An automated workflow that finds local businesses by category and city, cleans the data, and delivers ready-to-use leads directly into a Google Sheet.
