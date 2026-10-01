@@ -50,4 +50,7 @@ Returns clean rows with: business name, full address, city, postcode, phone (whe
 ## Author
 
 
+
+https://github.com/user-attachments/assets/4b7f9d0b-32fa-4f03-95d5-59087e8e37bc
+
 Rahul — https://www.linkedin.com/in/rahuljobsdesk/ — automation & data freelancer
