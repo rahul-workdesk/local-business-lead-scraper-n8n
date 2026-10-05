@@ -34,7 +34,7 @@ Change the category or city, and it runs again for a completely new lead list in
 
 ## Example Output
 
-Search: restaurants near Kangra, Himachal Pradesh, India
+Search: restaurants near Kangra, Himachal Pradesh, India.
 
 Returns clean rows with: business name, full address, city, postcode, phone (where available), and coordinates.
 
