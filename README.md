@@ -9,7 +9,7 @@ Sales teams, marketing agencies, and local businesses often need lists of busine
 ## The Solution
 
 This workflow automates the entire process:
-1. Searches for businesses by category and location using the Geoapify Places API
+1. Searches for businesses by category and location using the Geoapify Places API (can also use Google Maps)
 2. Cleans the results — removes duplicates and filters out incomplete entries
 3. Writes the final list directly into a Google Sheet
 
